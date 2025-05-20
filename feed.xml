@@ -1,0 +1,90 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+      <title>Noticias Pablo Zuil y Pablo DLF</title>
+      <link>https://www.ejemplo.com</link>
+      <description>Descripción breve del sitio</description>
+      <language>es-es</language>
+  
+      <item>
+        <title>Nuevo podcast de El País</title>
+        <link>https://elpais.com/suscripciones/elpaismas/2025-05-19/descubre-el-nuevo-podcast-de-el-pais-y-charla-con-sus-responsables.html</link>
+        <description>Descubre aquí todo sobre el nuevo podcast</description>
+        <pubDate>Mon, 20 May 2024 12:00:00 +0000</pubDate>
+        <guid>https://elpais.com/suscripciones/elpaismas/2025-05-19/descubre-el-nuevo-podcast-de-el-pais-y-charla-con-sus-responsables.html</guid>
+        <category>Podcast</category>
+        <media:content url="https://www.fpa.es/resources/img/portal/2024/04/09/comunicacion1983.webp" type="image/jpeg" medium="image" />
+      </item>
+  
+      <item>
+        <title>Todo sobre la polémica de Frank Cuesta (Wild Frank)</title>
+        <link>https://www.elmundo.es/podcasts/el-mundo-al-dia/2025/05/19/682a6c36fdddffe0498b4578.html</link>
+        <description>Haz clic para descubrirlo todo</description>
+        <pubDate>Mon, 20 May 2024 12:00:00 +0000</pubDate>
+        <guid>https://www.elmundo.es/podcasts/el-mundo-al-dia/2025/05/19/682a6c36fdddffe0498b4578.html</guid>
+        <category>Podcast</category>
+        <media:content url="https://edatv.news/filesedc/uploads/image/post/montaje-frank-cuesta_1200_800.webp" type="image/jpeg" medium="image" />
+      </item>
+  
+      <item>
+        <title>Noche de Pendejadas with Alannized - Kunno Talks All</title>
+        <link>https://podcasts.apple.com/us/podcast/noche-de-pendejadas-with-alannized/id1583634343?l=es-MX</link>
+        <description>Entrevista con Kunno hablando sobre su vida personal, salidas del armario y polémicas.</description>
+        <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+        <guid>https://podcasts.apple.com/us/podcast/noche-de-pendejadas-with-alannized/id1583634343?l=es-MX</guid>
+        <category>Entrevistas</category>
+        <media:content url="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SATPTH26DBBV3MZEQOAOMLBEWI.jpg" type="image/jpeg" medium="image" />
+      </item>
+  
+      <item>
+        <title>Fraude de los influencers</title>
+        <link>https://open.spotify.com/show/5OiD69t3O7hcKOeRDfReZK</link>
+        <description>Análisis de prácticas engañosas y fraudes cometidos por influencers.</description>
+        <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+        <guid>https://open.spotify.com/show/5OiD69t3O7hcKOeRDfReZK</guid>
+        <category>Redes Sociales</category>
+        <media:content url="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/F4YHCIM2HNABFCCEJQVMDWNL5I.webp" type="image/jpeg" medium="image" />
+      </item>
+  
+      <item>
+        <title>La Tremenda - Controversias y debates</title>
+        <link>https://www.tiktok.com/@candresperedo/video/7337377456472575237?lang=en</link>
+        <description>Podcast colombiano con debates que han generado controversia en la comunidad digital.</description>
+        <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+        <guid>https://www.tiktok.com/@candresperedo/video/7337377456472575237?lang=en</guid>
+        <category>Debates</category>
+        <media:content url="https://www.magisnet.com/wp-content/uploads/2023/07/Debates-en-clase.jpg" type="image/jpeg" medium="image" />
+      </item>
+  
+      <item>
+        <title>El Grupito de Atrás - Influencers y temas legales</title>
+        <link>https://www.tiktok.com/@elgrupitodeatrasoficial/video/7434594645251722551</link>
+        <description>Discusión sobre contratos, derechos de autor y polémicas legales en el mundo influencer.</description>
+        <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+        <guid>https://www.tiktok.com/@elgrupitodeatrasoficial/video/7434594645251722551</guid>
+        <category>Legal</category>
+        <media:content url="https://i.ytimg.com/vi/DtTz9XMV2YI/maxresdefault.jpg" type="image/jpeg" medium="image" />
+      </item>
+  
+      <item>
+        <title>Avances en inteligencia artificial</title>
+        <link>https://www.bbc.com/mundo/articles/c4gxzx0kpp6oa</link>
+        <description>Últimos desarrollos en el campo de la inteligencia artificial y su impacto en la sociedad.</description>
+        <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+        <guid>https://www.ejemplo.com/articulos/avances-ia</guid>
+        <category>Tecnología</category>
+        <media:content url="https://www.santanderopenacademy.com/es/blog/IA-generativa/_jcr_content/root/hero/imageDesktopLG.coreimg.jpeg/1708074308823/ia-generativa-1.jpeg" type="image/jpeg" medium="image" />
+      </item>
+  
+      <item>
+        <title>Seguridad informática en 2025</title>
+        <link>https://www.splashtop.com/es/blog/cybersecurity-trends-2025?srsltid=AfmBOorq6Q-29WibiBVsmaGXTnaOx0Y5z_96kYjcS8CTL_WlEka9h6oC</link>
+        <description>Cómo proteger tus datos personales y empresariales en el entorno digital actual.</description>
+        <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+        <guid>https://www.ejemplo.com/articulos/seguridad-informatica-2025</guid>
+        <category>Ciberseguridad</category>
+        <media:content url="https://i0.wp.com/fusiona.cl/wp-content/uploads/Tendencias-ciberseguridad-2025_-%C2%BFQue-se-viene-y-como-actuar_.webp" type="image/jpeg" medium="image" />
+      </item>
+  
+    </channel>
+  </rss>
+  
