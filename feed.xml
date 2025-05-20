@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticiass</title>
+        <link>https://www.ejemplo.com</link>
+        <description>Descripción breve del sitio</description>
+        <language>es-es</language>
+
+        <item>
+            <title>Nuevo podcast de El País</title>
+            <link>https://elpais.com/suscripciones/elpaismas/2025-05-19/descubre-el-nuevo-podcast-de-el-pais-y-charla-con-sus-responsables.html</link>
+            <description>Descubre aqui todo sobre el nuevo podcast</description>
+            <pubDate>Mon, 20 May 2024 12:00:00 +0000</pubDate>
+            <guid>https://elpais.com/suscripciones/elpaismas/2025-05-19/descubre-el-nuevo-podcast-de-el-pais-y-charla-con-sus-responsables.html</guid>
+          </item>
+
+    </channel>
+</rss>
